@@ -16,7 +16,7 @@ list = []
 
 field = fill_field(a,l,list,field)
 
-print field
+print field #test
 a = 0
 b = a + 1
 
